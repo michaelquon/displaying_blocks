@@ -6,53 +6,30 @@ body{
 h1{
     text-align: center;
 }
-#container1{
-    position: absolute;
-    top: 55%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
+#container2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
 } 
 .headImage1{
     width: 100px;
     height: 65px;
     background-color: white;
 }
-.gitimageSize1{
+.box1, .box2{
     width: 100px;
     height: 100px;
-    display: block;
     border: 3px solid black;
     padding: 10px;
     margin: 3px;
+}
+.box1{
     background-color: lightskyblue; 
 }
-.gitimageSize2{
-    width: 100px;
-    height: 100px;
-    display: block;
-    border: 3px solid black;
-    padding: 10px;
-    margin: 3px;
+.box2{
     background-color: rgb(235, 122, 107);
 }
-.blockOne{
+.block-row{
     margin: 0px;
-    float: left;
-}
-.blockTwo{
-    margin: 0px;
-    float: left;
-}
-.blockThree{
-    margin: 0px;
-    float: left;
-}
-.blockFour{
-    margin: 0px;
-    float: left;
-}
-.blockFive{
-    margin: 0px;
-    float: left;
+    display: inline-block;
 }
