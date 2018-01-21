@@ -32,7 +32,7 @@ h1{
 .gitimageSize2{
     background-color: rgb(235, 122, 107);
 }
-.block-one, .block-two, .block-three, .block-four, .block-five{
+.block-one, .block-two, .block-three, .block-four, .block-five {
     margin: 0;
     float: left;
 }
