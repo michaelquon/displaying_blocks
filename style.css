@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: tan;
+}
+h1{
+    text-align: center;
+}
+#container1{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.headImage1{
+    width: 100px;
+    height: 65px;
+    background-color: white;
+}
+.gitimageSize1{
+    width: 100px;
+    height: 100px;
+    display: block;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: lightskyblue;
+    margin: 3px;
+}
+.gitimageSize2{
+    width: 100px;
+    height: 100px;
+    display: block;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: rgb(235, 122, 107);
+    margin: 3px;
+}
+.block-one{
+    margin: 0;
+    float: left;
+}
+.block-two{
+    margin: 0;
+    float: left;
+}
+.block-three{
+    margin: 0;
+    float: left;
+}
+.block-four{
+    margin: 0;
+    float: left;
+}
+.block-five{
+    margin: 0;
+    float: left;
+}
