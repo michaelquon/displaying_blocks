@@ -12,27 +12,47 @@ h1{
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
-}
+} 
 .headImage1{
     width: 100px;
     height: 65px;
     background-color: white;
 }
-.gitimageSize1, .gitimageSize2{
+.gitimageSize1{
     width: 100px;
     height: 100px;
     display: block;
     border: 3px solid black;
     padding: 10px;
     margin: 3px;
-}
-.gitimageSize1{
     background-color: lightskyblue; 
 }
 .gitimageSize2{
+    width: 100px;
+    height: 100px;
+    display: block;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 3px;
     background-color: rgb(235, 122, 107);
 }
-.block-one, .block-two, .block-three, .block-four, .block-five {
-    margin: 0;
+.blockOne{
+    margin: 0px;
+    float: left;
+}
+.blockTwo{
+    margin: 0px;
+    float: left;
+}
+.blockThree{
+    margin: 0px;
+    float: left;
+}
+.blockFour{
+    margin: 0px;
+    float: left;
+}
+.blockFive{
+    margin: 0px;
     float: left;
 }
